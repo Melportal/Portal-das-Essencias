@@ -1,0 +1,38 @@
+<html>
+<meta charset="utf-8">
+         <head>
+                <img src="logo essencias portal.png" height="60%" width="100%"></>
+                <h1 style="color:black;" align="center">Portal das Essencias e Vidros</h1>
+                <title>Meu Site HTML</title>
+
+         </head>
+
+         <body style="background-color:violet;">
+                 <h2 style="color:black;" align="center">Sobre</h2>
+
+                          <p style="color:purple;"align"rigth">Difusores de óleos essenciais para você fazer aromaterapia em casa.
+                             Os difusores de aromas e óleos essenciais são ótimas opções para ajudar a relaxar no dia a dia.<p> 
+
+                          <p style="color:purple;"align"rigth">Nada como chegar em casa depois de um dia cansativo no trabalho e relaxar. 
+                              Para isso, você pode contar com alguns aliados, como os difusores de aromas e óleos essenciais.
+                              Que tal um pouco de essência de lavanda para melhorar a qualidade do sono, ou um pouco de óleo essencial de
+ alecrim para ajudar você a despertar? Pensando nisso, fizemos uma seleção com diferentes modelos de difusores para você experimentar e
+ montar a sua própria experiência de aromaterapia em casa.<p> 
+
+                          <br></br>
+
+                       <h2 style="color:black;" align="center">Contatos</h2>
+
+                           <p style="color:black; align="rigth">
+
+
+
+         </body>
+
+         </footer>
+                 <p style="color:purple;> Feito por: Melissa Portal</p>
+                 <p style="color:purple;> E-mail: <a style="color:white;" href="mailto:portaldasessenciasevidros@gmail.com"> portaldasessenciasevidros@gmail.com </a> </p>
+
+
+         </footer>
+</html>
